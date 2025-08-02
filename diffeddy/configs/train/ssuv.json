@@ -1,0 +1,13 @@
+{
+    "name": "ocean_forecast_experiment",
+    "batch_size": 6,
+    "filters": 64,
+    "weight_decay": 0.1,
+    "learning_rate": 0.0005,
+    "num_epochs": 100,
+    "spacing": 1,
+    "t_max": 4,
+    "conditioning_times": [-3, -2, -1, 0],
+    "delta_t": 1,
+    "model": "autoregressive"
+}

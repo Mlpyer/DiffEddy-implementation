@@ -1,0 +1,10 @@
+{
+    "name": "ocean_forecast_experiment-2->10",
+    "model": "ocean_forecast_experiment",
+    "batch_size": 1,
+    "spacing": 1,
+    "t_max": 4,
+    "t_direct": 1,
+    "t_iter": 4,
+    "n_ens": 20
+}
